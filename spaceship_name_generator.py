@@ -1,4 +1,4 @@
-# import random module
+# import random module to project
 from random import randint
 
 # list of random names
